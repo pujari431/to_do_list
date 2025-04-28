@@ -5,6 +5,9 @@ This project mainly focuses on using **DOM (Document Object Model)** manipulatio
 
 ---
 
+You can try it out here
+https://ttoddollist.netlify.app/
+
 ## 🚀 Features
 
 - Add new notes instantly
